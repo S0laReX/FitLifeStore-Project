@@ -3,13 +3,13 @@
 ## Integrantes
 - Hugo Nava
 - Santiago Bohorquez
-- Carlos López
+- Miguel Carvajal
 - Alan Herbas
 
 ## Roles
 - Hugo Nava - Repository Manager
 - Santiago Bohorquez - Frontend Developer
-- Carlos López - JavaScript Developer
+- Miguel Carvajal - JavaScript Developer
 - Alan Herbas - QA / Documentador
 
 ## Descripción
@@ -34,16 +34,31 @@ README.md
 4. Mergeamos a develop después de aprobación
 
 # Conflictos Resueltos
-## Conflicto #1 - Fecha: 5 de marzo
+## Conflicto #1 - Fecha: 2 de marzo
 
 **¿Qué pasó?**
-Juan y María editaron el archivo style.css al mismo tiempo.
-Juan cambió el color del header a azul, María lo cambió a verde.
+Hugo y Miguel editaron style.css al mismo tiempo.
+Miguel cambió el color del header a azul, Hugo lo cambió a rojo.
 
 **¿Cómo se resolvió?**
 1. Vimos ambos cambios en Git
 2. Decidimos en equipo usar el color azul
-3. Eliminamos la línea del color verde
+3. Eliminamos la línea del color rojo
+4. Guardamos el archivo y completamos el merge
+
+**¿Qué aprendimos?**
+Debemos comunicarnos antes de editar los mismos archivos.
+
+## Conflicto #2 - Fecha: 2 de marzo
+
+**¿Qué pasó?**
+Hugo y Miguel editaron style.css al mismo tiempo.
+Miguel cambió el color del header a azul, Hugo lo cambió a rojo.
+
+**¿Cómo se resolvió?**
+1. Vimos ambos cambios en Git
+2. Decidimos en equipo usar el color azul
+3. Eliminamos la línea del color rojo
 4. Guardamos el archivo y completamos el merge
 
 **¿Qué aprendimos?**
