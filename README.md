@@ -33,7 +33,7 @@ README.md
 3. Enviamos Pull Requests para revisión
 4. Mergeamos a develop después de aprobación
 
-## Conflictos Resueltos
+# Conflictos Resueltos
 ## Conflicto #1 - Fecha: 5 de marzo
 
 **¿Qué pasó?**
@@ -48,7 +48,3 @@ Juan cambió el color del header a azul, María lo cambió a verde.
 
 **¿Qué aprendimos?**
 Debemos comunicarnos antes de editar los mismos archivos.
-
-## Instalación
-1. Clonar repositorio: `git clone [url]`
-2. Abrir index.html en el navegador
