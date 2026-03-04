@@ -9,12 +9,12 @@ window.productos = [
   { id: 6, nombre: "Whey Blend Chocolate 5lb", precio: 95.00, categoria: "proteinas", marca: "Optimum Nutrition", img: "images/productos/proteinas/imagen5.jpg", rating: 4, reviews: 234 },
   { id: 7, nombre: "Whey Protein Cookies & Cream 2lb", precio: 45.99, categoria: "proteinas", marca: "NutriMax", img: "images/productos/proteinas/imagen6.jpg", rating: 4, reviews: 412 },
   // CREATINAS
-  { id: 8, nombre: "Creatina Monohidrato 300g", precio: 34.99, categoria: "creatinas", marca: "Universal Supps", img: "images/productos/creatinas/creatina1.jpg", rating: 5, reviews: 1200 },
-  { id: 9, nombre: "Creatina HCL Capsules", precio: 45.00, categoria: "creatinas", marca: "Kaged Muscle", img: "images/productos/creatinas/creatina2.jpg", rating: 4, reviews: 651 },
-  { id: 10, nombre: "Creatina Micronizada 500g", precio: 49.99, categoria: "creatinas", marca: "MuscleTech", img: "images/productos/creatinas/creatina3.jpg", rating: 5, reviews: 987 },
-  { id: 11, nombre: "Creatine Ethyl Ester Powder", precio: 39.50, categoria: "creatinas", marca: "BulkGenetics", img: "images/productos/creatinas/creatina4.jpg", rating: 3, reviews: 211 },
-  { id: 12, nombre: "Creatina con Magnesio 250g", precio: 32.00, categoria: "creatinas", marca: "PharmaGrade", img: "images/productos/creatinas/creatina5.jpg", rating: 4, reviews: 405 },
-  { id: 13, nombre: "Creatina Pura Sin Sabor 1kg", precio: 78.99, categoria: "creatinas", marca: "PureForm Labs", img: "images/productos/creatinas/creatina6.jpg", rating: 5, reviews: 750 },
+  { id: 8, nombre: "Creatina Monohidrato 300g", precio: 100.99, categoria: "creatinas", marca: "Universal Supps", img: "images/productos/creatinas/creatina1.jpg", rating: 5, reviews: 1200 },
+  { id: 9, nombre: "Creatina HCL Capsules", precio: 100.00, categoria: "creatinas", marca: "Kaged Muscle", img: "images/productos/creatinas/creatina2.jpg", rating: 4, reviews: 651 },
+  { id: 10, nombre: "Creatina Micronizada 500g", precio: 100.99, categoria: "creatinas", marca: "MuscleTech", img: "images/productos/creatinas/creatina3.jpg", rating: 5, reviews: 987 },
+  { id: 11, nombre: "Creatine Ethyl Ester Powder", precio: 100.50, categoria: "creatinas", marca: "BulkGenetics", img: "images/productos/creatinas/creatina4.jpg", rating: 3, reviews: 211 },
+  { id: 12, nombre: "Creatina con Magnesio 250g", precio: 320.00, categoria: "creatinas", marca: "PharmaGrade", img: "images/productos/creatinas/creatina5.jpg", rating: 4, reviews: 405 },
+  { id: 13, nombre: "Creatina Pura Sin Sabor 1kg", precio: 780.99, categoria: "creatinas", marca: "PureForm Labs", img: "images/productos/creatinas/creatina6.jpg", rating: 5, reviews: 750 },
   // PRE-ENTRENOS
   { id: 14, nombre: "Pre-Workout C4 Fruit Punch", precio: 39.99, categoria: "pre-entrenos", marca: "Cellucor", img: "images/productos/pre-entrenos/pre1.jpg", rating: 4, reviews: 1560 },
   { id: 15, nombre: "Pre-Workout Nitric Oxide Blend", precio: 48.50, categoria: "pre-entrenos", marca: "MusclePharm", img: "images/productos/pre-entrenos/pre2.jpg", rating: 5, reviews: 890 },
