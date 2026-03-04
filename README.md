@@ -36,7 +36,4 @@ Miguel cambió el color del header a azul, Hugo lo cambió a rojo.
 4. Guardamos el archivo y completamos el merge
 
 **¿Qué aprendimos?**
-Debemos comunicarnos antes de editar los mismos archivos.
-
-**¿Qué aprendimos?**
-A veces la mejor solución es combinar ambas ideas en lugar de elegir solo una.
+Debemos comunicarnos antes de editar los mismos archivos
