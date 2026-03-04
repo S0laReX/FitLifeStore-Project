@@ -38,15 +38,5 @@ Miguel cambió el color del header a azul, Hugo lo cambió a rojo.
 **¿Qué aprendimos?**
 Debemos comunicarnos antes de editar los mismos archivos.
 
-## Conflicto #2 - Fecha: 2 de marzo
-
-**¿Qué pasó?**
-Juan y Ana modificaron el título de la página `<title>` en el archivo index.html simultáneamente con textos diferentes.
-
-**¿Cómo se resolvió?**
-1. Identificamos el conflicto en la línea 5 de index.html
-2. Combinamos ambas ideas
-3. Guardamos, agregamos y commiteamos
-
 **¿Qué aprendimos?**
 A veces la mejor solución es combinar ambas ideas en lugar de elegir solo una.
