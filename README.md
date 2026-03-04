@@ -13,7 +13,7 @@
 - Alan Herbas - QA / Documentador
 
 ## Descripción
-[Qué hace el proyecto]
+Sitio de venta de suplementos deportivos.
 
 
 ## Flujo de Trabajo
